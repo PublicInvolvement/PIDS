@@ -1,2 +1,2 @@
-# PIDS
-Future home of the Public Involvement Data Specification (PIDS)
+# Public Involvement Data Specification (PIDS)
+Future home 
